@@ -7,7 +7,7 @@ Web developer and software engineer
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [Github](http://github.com/Malic33100)
 * ✉️  You can contact me at [mertus.malik@gmail.com](mailto:mertus.malik@gmail.com)
-* 🚀  I'm currently working on [My Personal web site](malic33100.github.io)
+* 🚀  I'm currently working on [My Personal web site](https://malic33100.github.io/)
 * 🤝  I'm open to collaborating on Open source, collaborative projects or interesting designs
 * ⚡  One day the robots will take over. Who will rule over the robots?
 
