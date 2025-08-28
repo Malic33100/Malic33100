@@ -5,7 +5,7 @@ Web developer and software engineer
 -----------------------------------
 
 * 🌍  I'm based in Atlanta
-* 🖥️  See my portfolio at [Github](http://github.com/Malic33100)
+* 🖥️  See my portfolio at [malikmertus.com](https://malikmertus.com/)
 * ✉️  You can contact me at [mertus.malik@gmail.com](mailto:mertus.malik@gmail.com)
 * 🚀  I'm currently working on finishing my Bachelors in Computer Science
 * 🤝  I'm open to collaborating on Open source, collaborative projects or interesting designs
