@@ -7,8 +7,8 @@ Web developer and software engineer
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [malikmertus.com](https://malikmertus.com/)
 * ✉️  You can contact me at [mertus.malik@gmail.com](mailto:mertus.malik@gmail.com)
-* 🚀  I'm currently working on finishing my Bachelors in Computer Science
-* 🤝  I'm open to collaborating on Open source, collaborative projects or interesting designs
+* 🚀  I'm currently working on finishing my Capstone for my Bachelors in Computer Science
+* 🤝  I'm open to collaborating on Open source, fullstack projects or anything interesting
 * ⚡  One day the robots will take over. Who will rule over the robots?
 
 ### Skills
