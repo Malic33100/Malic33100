@@ -32,6 +32,6 @@ Web developer and software engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Malic33100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Malic33100&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Malic33100&theme=sunset-gradient&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=0984E3" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/Malic33100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malic33100&langs_count=10&title_color=6366f1&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
