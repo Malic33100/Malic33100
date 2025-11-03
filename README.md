@@ -21,7 +21,6 @@ Hi 👋 My name is Malik Mertus
         <li>🌍 I'm based in Atlanta</li>
         <li>🖥️ See my portfolio at <a href="https://malikmertus.com">malikmertus.com</a></li>
         <li>✉️ You can contact me at <a href="mailto:mertus.malik@gmail.com">mertus.malik@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/malik-mertus-942837212/">Linkedin</a></li>
-        <li>🚀 I'm currently working on finishing my Capstone for my Bachelors in Computer Science</li>
         <li>🤝 Leetcode profile: <a href="https://leetcode.com/u/Malic33100/">https://leetcode.com/u/Malic33100/</a></li>
         <li>⚡ One day the robots will take over. Who will rule over the robots?</li>
       </ul>
