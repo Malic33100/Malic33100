@@ -1,7 +1,7 @@
 Hi 👋 My name is Malik Mertus
 =============================
 <td width="50%">
-  <h2>Web Developer & Software Engineer</h2>
+  <h2>Software Engineer</h2>
   <p><em>Specializing in full-stack development with a background in IT Support</em></p>
   <br>
   <p align="left">
